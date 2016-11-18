@@ -1,0 +1,3 @@
+10001;CINEPOLIS;Ancash;Bolognesi;null;11/11/2015;1
+10002;UVK;Amazonas;Bagua;ketchup;11/11/2015;1
+10003;CINESTAR;Amazonas;Bagua;ketchup;2/11/2016;1
